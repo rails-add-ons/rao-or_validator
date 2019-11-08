@@ -1,0 +1,1 @@
+# x(or) validator for rails

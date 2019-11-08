@@ -1,0 +1,8 @@
+de:
+  activerecord:
+    errors:
+      messages:
+        or:
+          default: "Mindestens eins der folgenden Felder muss ausgefüllt sein: %{attribute_names}."
+          exclusive: "Nur eins der folgenden Felder darf ausgefüllt sein: %{attribute_names}."
+

@@ -1,0 +1,8 @@
+en:
+  activerecord:
+    errors:
+      messages:
+        or:
+          default: "at least one of #{attribute_names} must be present."
+          exclusive: "exactly one of %{attribute_names} may be present."
+
