@@ -13,8 +13,8 @@ Gem::Specification.new do |s|
   s.summary     = "Provides an (x)or validator for active model."
   s.description = "Provides an (x)or validator for active model."
 
-  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "README.rdoc"]
-  s.test_files = Dir["test/**/*"]
+  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "README.md"]
+  # s.test_files = Dir["test/**/*"]
 
   s.add_dependency "rails"
 end
